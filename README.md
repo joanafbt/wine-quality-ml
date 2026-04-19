@@ -36,8 +36,8 @@ de qualidade.
 - Base para sistemas de recomendação e decisão baseados em dados
 
 ## Publicação
-Este trabalho foi apresentado numa conferência científica e resultou
-numa publicação académica.
+Artigo apresentado na conferência IDEEA'26 (18 de abril de 2026).
+📄 [Ver artigo (PDF)](./artigo-qualidade-vinho.pdf)
 
 ---
 *Dataset: [UCI Wine Quality](https://archive.ics.uci.edu/ml/datasets/wine+quality)*
